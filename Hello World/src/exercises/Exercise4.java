@@ -60,7 +60,7 @@ public class Exercise4 {
 			System.out.println(sudents[y]+" "+scores[y][op]);	//Classes Score
 		*/
 				
-			
+			//TESTsd
 
 	}
 }
